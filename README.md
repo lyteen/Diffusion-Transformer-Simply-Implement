@@ -14,7 +14,7 @@ pip install pip install torch torchvision safetensors pillow opencv-python matpl
 ```powershell
 python main.py
 ```
-c
+
 #### Instructions
 if main.py run successfully would be like:
 <video controls src="outputs/tutorials.mp4" title="Title"></video>
