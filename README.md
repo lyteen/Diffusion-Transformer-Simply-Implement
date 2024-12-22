@@ -45,9 +45,12 @@ Epoch 363/500:  36%|███▌      | 72/200 [00:38<01:07,  1.89it/s, loss=0.0
 ---
 ### DONE
 ✅ A simple diffusion transformer implement
-
+- Test result:
+![alt text](outputs/9.png)
 
 ✅ Graphical interface for generating one-channel image for handwritten number
+- Interface:
+![alt text](outputs/layout.png)
 
 ## Acknowledgement
 dit model code based on the code following [repository](https://github.com/owenliang/mnist-dits/tree/main). The Graphical interface code based on the code following [repository](https://github.com/mehmet-mert/FrameRecorder).   mnist dataset from [huggingface](https://huggingface.co/datasets/ylecun/mnist). diffusion model mechanism following [wiki](https://en.wikipedia.org/wiki/Diffusion_model).
